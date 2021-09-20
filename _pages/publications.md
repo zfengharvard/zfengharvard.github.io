@@ -11,6 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+2019
+
+Optimal Auctions through Deep Learning. (Alphabetical) Paul D\"utting, Zhe Feng, Harikrishna Narasimhan, David C. Parkes and Sai S. Ravindranath. ICML-19. [arXiv](https://arxiv.org/pdf/1706.03459.pdf).
+
+Online Learning for Measuring Incentive Compatibility in Ad Auctions. Zhe Feng, Okke Schrijvers, and Eric Sodomka. TheWebConf-19. [arXiv](https://arxiv.org/pdf/1901.06808.pdf).
+
+
+
+
