@@ -32,5 +32,5 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 
 * [Learning to Bid in Contextual First Price Auctions](). (Alphabetical) Ashwinkumar Badanidiyuru Varadaraja, Zhe Feng, and Guru Guruganesh. [arXiv](https://arxiv.org/pdf/2109.03173.pdf).
 * [Robust Clearing Price Mechanisms for Reserve Price Optimization](). Zhe Feng and Sebastien Lahaie. [arXiv](https://arxiv.org/pdf/2107.04638.pdf).
-* [Deep Learning for Two-Sided Matching](). Sai Srivatsa Ravindranath, Zhe Feng, Shira Li, Jonathan Ma, Scott D Kominers, David C Parkes. [arXiv](https://arxiv.org/pdf/2107.03427.pdf).
+* [Deep Learning for Two-Sided Matching](). Sai S. Ravindranath, Zhe Feng, Shira Li, Jonathan Ma, Scott D Kominers, David C Parkes. [arXiv](https://arxiv.org/pdf/2107.03427.pdf).
 
