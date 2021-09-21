@@ -17,7 +17,7 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 
 ### Published Conference Papers.
 
-* [Welfare-Preserving $\varepsilon$-BIC to BIC Transformation with Negligible Revenue Loss](). (Alphabetical) Vincent Conitzer, Zhe Feng, David C. Parkes, and Eric Sodomka. ***WINE-21***. [arXiv](https://arxiv.org/pdf/2007.09579.pdf).
+* [Welfare-Preserving $\varepsilon$-BIC to BIC Transformation with Negligible Revenue Loss](). (Alphabetical) Vincent Conitzer, Zhe Feng, David C. Parkes, and Eric Sodomka. To Appear in ***WINE-21***. [arXiv](https://arxiv.org/pdf/2007.09579.pdf).
 * [Reserve Price Optimization for First Price Auctions in Display Advertising](https://proceedings.mlr.press/v139/feng21b.html). Zhe Feng, Sebastien Lahaie, Jon Schneider, and Jinchao Ye. ***ICML-21***. Long Presentation, **3%** acceptance rate. [arXiv](https://arxiv.org/pdf/2006.06519.pdf).
 * [Convergence Analysis of No-Regret Bidding Algorithms in Repeated Auctions](https://ojs.aaai.org/index.php/AAAI/article/view/16680). (Alphabetical) Zhe Feng, Guru Guruganesh, Christopher Liaw, Aranyak Mehta, and Abhishek Sethi. ***AAAI-21***. [arXiv](https://arxiv.org/pdf/2009.06136.pdf).
 * [The Intrinsic Robustness of Stochastic Bandits to Strategic Manipulation](https://proceedings.mlr.press/v119/feng20c.html). (Alphabetical) Zhe Feng, David C. Parkes, and Haifeng Xu. ***ICML-20***. [arXiv](https://arxiv.org/pdf/1906.01528.pdf).
@@ -32,5 +32,5 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 
 * [Learning to Bid in Contextual First Price Auctions](). (Alphabetical) Ashwinkumar Badanidiyuru Varadaraja, Zhe Feng, and Guru Guruganesh. [arXiv](https://arxiv.org/pdf/2109.03173.pdf).
 * [Robust Clearing Price Mechanisms for Reserve Price Optimization](). Zhe Feng and Sebastien Lahaie. [arXiv](https://arxiv.org/pdf/2107.04638.pdf).
-* [Deep Learning for Two-Sided Matching](). Sai S. Ravindranath, Zhe Feng, Shira Li, Jonathan Ma, Scott D Kominers, David C Parkes. [arXiv](https://arxiv.org/pdf/2107.03427.pdf).
+* [Deep Learning for Two-Sided Matching](). Sai S. Ravindranath, Zhe Feng, Shira Li, Jonathan Ma, Scott D. Kominers, David C. Parkes. [arXiv](https://arxiv.org/pdf/2107.03427.pdf).
 
