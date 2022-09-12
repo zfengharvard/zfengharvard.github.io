@@ -17,11 +17,11 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 
 ### Published Conference Papers.
 
-* [A Context-Integrated Transformer-Based Neural Network for Auction Design](). Zhijian Duan, Jingwu Tang, Yutong Yin, Zhe Feng, Xiang Yan, Manzil Zaheer, and Xiaotie Deng. To appear in ***ICML-22***. [arXiv](https://arxiv.org/pdf/2201.12489.pdf).
-* [Sequential Information Design: Markov Persuasion Process and Its Efficient Reinforcement Learning](). Jibang Wu, Zixuan Zhang, Zhe Feng, Zhaoran Wang, Zhuoran Yang, Michael I. Jordan, Haifeng Xu. To appear in ***EC-22***. [arXiv](https://arxiv.org/pdf/2202.10678.pdf).
-* [Welfare-Preserving $\varepsilon$-BIC to BIC Transformation with Negligible Revenue Loss](). (Alphabetical) Vincent Conitzer, Zhe Feng, David C. Parkes, and Eric Sodomka. ***WINE-21***. [arXiv](https://arxiv.org/pdf/2007.09579.pdf).
+* [A Context-Integrated Transformer-Based Neural Network for Auction Design](https://proceedings.mlr.press/v162/duan22a.html). Zhijian Duan, Jingwu Tang, Yutong Yin, Zhe Feng, Xiang Yan, Manzil Zaheer, and Xiaotie Deng. To appear in ***ICML-22***. [arXiv](https://arxiv.org/pdf/2201.12489.pdf).
+* [Sequential Information Design: Markov Persuasion Process and Its Efficient Reinforcement Learning](https://dl.acm.org/doi/10.1145/3490486.3538313). Jibang Wu, Zixuan Zhang, Zhe Feng, Zhaoran Wang, Zhuoran Yang, Michael I. Jordan, Haifeng Xu. To appear in ***EC-22***. [arXiv](https://arxiv.org/pdf/2202.10678.pdf).
+* [Welfare-Preserving $\varepsilon$-BIC to BIC Transformation with Negligible Revenue Loss](https://link.springer.com/chapter/10.1007/978-3-030-94676-0_5). (Alphabetical) Vincent Conitzer, Zhe Feng, David C. Parkes, and Eric Sodomka. ***WINE-21***. [arXiv](https://arxiv.org/pdf/2007.09579.pdf).
 * [Reserve Price Optimization for First Price Auctions in Display Advertising](https://proceedings.mlr.press/v139/feng21b.html). Zhe Feng, Sebastien Lahaie, Jon Schneider, and Jinchao Ye. ***ICML-21***(Long Presentation, 3% acceptance rate). [arXiv](https://arxiv.org/pdf/2006.06519.pdf).
-* [Convergence Analysis of No-Regret Bidding Algorithms in Repeated Auctions](https://ojs.aaai.org/index.php/AAAI/article/view/16680). (Alphabetical) Zhe Feng, Guru Guruganesh, Christopher Liaw, Aranyak Mehta, and Abhishek Sethi. ***AAAI-21***. [arXiv](https://arxiv.org/pdf/2009.06136.pdf).
+* [Convergence Analysis of No-Regret Bidding Algorithms in Repeated Auctions](https://ojs.aaai.org/index.php/AAAI/article/view/16680). (Alphabetical) Zhe Feng, Guru Guruganesh, Christopher Liaw, Aranyak Mehta, and Abhishek Sethi. ***AAAI-21***. [arXiv](https://arxiv.org/pdf/2009.06136.pdf). 
 * [The Intrinsic Robustness of Stochastic Bandits to Strategic Manipulation](https://proceedings.mlr.press/v119/feng20c.html). (Alphabetical) Zhe Feng, David C. Parkes, and Haifeng Xu. ***ICML-20***. [arXiv](https://arxiv.org/pdf/1906.01528.pdf).
 * [Optimal Auctions through Deep Learning](https://proceedings.mlr.press/v97/duetting19a.html). (Alphabetical) Paul Dütting, Zhe Feng, Harikrishna Narasimhan, David C. Parkes, and Sai S. Ravindranath. ***ICML-19***(Long Presentation). [arXiv](https://arxiv.org/pdf/1706.03459.pdf).
 * [Online Learning for Measuring Incentive Compatibility in Ad Auctions](https://dl.acm.org/doi/10.1145/3308558.3313674). Zhe Feng, Okke Schrijvers, and Eric Sodomka. ***TheWebConf-19***. [arXiv](https://arxiv.org/pdf/1901.06808.pdf).
@@ -32,6 +32,7 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 
 ### Working Papers.
 
+* [Online Bidding Algorithms for Return-on-Spend Constrained Advertisers](). (Alphabetical) Zhe Feng, Swati Padmanabhan, Di Wang. [arXiv](https://arxiv.org/pdf/2208.13713.pdf).
 * [User Response in Ad Auctions: An MDP Formulation of Long-term Revenue Optimization](). (Alphabetical) Yang Cai, Zhe Feng, Christopher Liaw and Aranyak Mehta. [Upon request]().
 * [Incrementality Bidding via Reinforcement Learning under Mixed and Delayed Rewards](). (Alphabetical) Ashwinkumar Badanidiyuru Varadaraja, Zhe Feng, Tianxi Li and Haifeng Xu. [arXiv](https://arxiv.org/pdf/2206.01293.pdf).
 * [Learning to Bid in Contextual First Price Auctions](). (Alphabetical) Ashwinkumar Badanidiyuru Varadaraja, Zhe Feng, and Guru Guruganesh. [arXiv](https://arxiv.org/pdf/2109.03173.pdf).
