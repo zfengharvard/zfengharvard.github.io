@@ -35,7 +35,9 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 
 ### Working Papers.
 
-* [User Response in Ad Auctions: An MDP Formulation of Long-term Revenue Optimization](). (Alphabetical) Yang Cai, Zhe Feng, Christopher Liaw and Aranyak Mehta. [Upon request]().
+
+* [Joint Feedback Loop for Spend and Return-On-Spend Constraints](). (Alphabetical) Santiago R. Balseiro, Kshipra Bhawalkar, Zhe Feng, Haihao Lu, Vahab Mirrokni, Balasubramanian Sivan, Di Wang. [arXiv](https://arxiv.org/pdf/2302.08530v1.pdf).
+* [User Response in Ad Auctions: An MDP Formulation of Long-term Revenue Optimization](). (Alphabetical) Yang Cai, Zhe Feng, Christopher Liaw and Aranyak Mehta. [arXiv](https://arxiv.org/pdf/2302.08108.pdf).
 * [Robust Clearing Price Mechanisms for Reserve Price Optimization](). Zhe Feng and Sebastien Lahaie. [arXiv](https://arxiv.org/pdf/2107.04638.pdf).
 * [Deep Learning for Two-Sided Matching](). Sai S. Ravindranath, Zhe Feng, Shira Li, Jonathan Ma, Scott D. Kominers, David C. Parkes. [arXiv](https://arxiv.org/pdf/2107.03427.pdf).
 
