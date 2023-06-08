@@ -10,7 +10,7 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 
 ### Journal Papers and Book Chapters.
 
-* [Optimal Auctions through Deep Learning](https://dl.acm.org/doi/10.1145/3470442). (Alphabetical) Paul Dütting, Zhe Feng, Harikrishna Narasimhan, David C. Parkes, and Sai S. Ravindranath. ***Communications of the ACM, Volume 64, Issue 8, August 2021***.
+* [Machine Learning for Matching Markets](https://www.cambridge.org/core/books/abs/online-and-matchingbased-market-design/machine-learning-for-matching-markets/3765477B00949BCD497A97F2EBE934A9). (Alphabetical) Zhe Feng, David C. Parkes, and Sai S. Ravindranath. ***Online and Matching-Based Market Design, Chapter 28, pp. 591-613, May 2023***.
 * [Optimal Auctions through Deep Learning](https://dl.acm.org/doi/10.1145/3470442). (Alphabetical) Paul Dütting, Zhe Feng, Harikrishna Narasimhan, David C. Parkes, and Sai S. Ravindranath. ***Communications of the ACM, Volume 64, Issue 8, August 2021***.
 * [Understanding PPA-Completeness](https://www.sciencedirect.com/science/article/abs/pii/S0022000020300726). (Alphabetical) Xiaotie Deng, Jack R. Edmonds, Zhe Feng, Zhengyang Liu, Qi Qi, and Zeying Xu. ***Journal of Computer and System Sciences, 2021***, supercedes the previous CCC-16 version.
 * [Machine Learning for Optimal Economic Design](https://link.springer.com/chapter/10.1007/978-3-030-18050-8_70). (Alphabetical) Paul Dütting, Zhe Feng, Noah Golowich, Harikrishna Narasimhan, David C. Parkes, and Sai S. Ravindranath. ***The Future of Economic Design, pp 495-515, 2019***.
