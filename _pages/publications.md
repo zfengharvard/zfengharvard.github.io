@@ -18,7 +18,7 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 
 ### Published Conference Papers.
 
-* [Pairwise Ranking Losses of Click-Through Rates Prediction for Welfare Maximization in Ad Auctions](). Boxiang Lyu, Zhe Feng, Zachary Robertson and Oluwasanmi O Koyejo. To appear in ***ICML-23***. [arXiv coming soon]().
+* [Pairwise Ranking Losses of Click-Through Rates Prediction for Welfare Maximization in Ad Auctions](). Boxiang Lyu, Zhe Feng, Zachary Robertson and Oluwasanmi O Koyejo. To appear in ***ICML-23***. [arXiv](https://arxiv.org/pdf/2306.01799.pdf).
 * [Improved Online Learning Algorithms for CTR Prediction in Ad Auctions](). (Alphabetical) Zhe Feng, Christopher Liaw and Zixin Zhou. To appear in ***ICML-23***. [arXiv coming soon]().
 * [Learning to Bid in Contextual First Price Auctions](https://dl.acm.org/doi/abs/10.1145/3543507.3583427). (Alphabetical) Ashwinkumar Badanidiyuru, Zhe Feng and Guru Guruganesh. ***TheWebConf-23***. [arXiv](https://arxiv.org/pdf/2109.03173.pdf).
 * [Online Bidding Algorithms for Return-on-Spend Constrained Advertisers](https://dl.acm.org/doi/abs/10.1145/3543507.3583491). (Alphabetical) Zhe Feng, Swati Padmanabhan, Di Wang. ***TheWebConf-23***. [arXiv](https://arxiv.org/pdf/2208.13713.pdf).
