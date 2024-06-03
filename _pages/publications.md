@@ -10,7 +10,7 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 
 ### Journal Papers and Book Chapters.
 
-* [Optimal Auctions through Deep Learning: Advances in Differentiable Economics](https://dl.acm.org/doi/abs/10.1145/3630749). (Alphabetical) Paul Dütting, Zhe Feng, Harikrishna Narasimhan, David C. Parkes, and Sai S. Ravindranath. ***Journal of the ACM*** (just accepted), supercedes the previous ICML-19 and CACM versions.
+* [Optimal Auctions through Deep Learning: Advances in Differentiable Economics](https://dl.acm.org/doi/abs/10.1145/3630749). (Alphabetical) Paul Dütting, Zhe Feng, Harikrishna Narasimhan, David C. Parkes, and Sai S. Ravindranath. ***Journal of the ACM, Volume 71, Issue 1, Article No.:5, pp 1-53***, supercedes the previous ICML-19 and CACM versions.
 * [Machine Learning for Matching Markets](https://www.cambridge.org/core/books/abs/online-and-matchingbased-market-design/machine-learning-for-matching-markets/3765477B00949BCD497A97F2EBE934A9). (Alphabetical) Zhe Feng, David C. Parkes, and Sai S. Ravindranath. ***Online and Matching-Based Market Design, Chapter 28, pp. 591-613, May 2023***.
 * [Optimal Auctions through Deep Learning](https://dl.acm.org/doi/10.1145/3470442). (Alphabetical) Paul Dütting, Zhe Feng, Harikrishna Narasimhan, David C. Parkes, and Sai S. Ravindranath. ***Communications of the ACM, Volume 64, Issue 8, August 2021***.
 * [Understanding PPA-Completeness](https://www.sciencedirect.com/science/article/abs/pii/S0022000020300726). (Alphabetical) Xiaotie Deng, Jack R. Edmonds, Zhe Feng, Zhengyang Liu, Qi Qi, and Zeying Xu. ***Journal of Computer and System Sciences, 2021***, supercedes the previous CCC-16 version.
@@ -19,8 +19,10 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 
 ### Published Conference Papers.
 
-* [Learning Thresholds with Latent Values and Censored Feedback](https://openreview.net/pdf?id=qaKRfobbTg). Jiahao Zhang, Tao Lin, Weiqiang Zheng, Zhe Feng, Yifeng Teng, and Xiaotie Deng. ***ICLR-24*** (to appear). [arXiv](https://arxiv.org/pdf/2312.04653.pdf).
-* [Deep Learning for Two-Sided Matching](). Sai S. Ravindranath, Zhe Feng, Shira Li, Jonathan Ma, Scott D. Kominers, David C. Parkes. ***AAMAS-24*** (extended abstract). [arXiv](https://arxiv.org/pdf/2107.03427.pdf).
+* [Auctions with LLM Summaries](). (Alphabetical) Avinava Dubey, Zhe Feng, Rahul Kidambi, Aranyak Mehta and Di Wang. ***KDD-24*** (to appear). [arXiv](https://arxiv.org/pdf/2404.08126).
+* [Joint Feedback Loop for Spend and Return-On-Spend Constraints](). (Alphabetical) Santiago R. Balseiro, Kshipra Bhawalkar, Zhe Feng, Haihao Lu, Vahab Mirrokni, Balasubramanian Sivan, Di Wang. ***ICML-24*** (to appear). [arXiv](https://arxiv.org/pdf/2302.08530v1.pdf).
+* [User Response in Ad Auctions: An MDP Formulation of Long-term Revenue Optimization](https://dl.acm.org/doi/10.1145/3589334.3645495). (Alphabetical) Yang Cai, Zhe Feng, Christopher Liaw, Aranyak Mehta and Grigoris Velegkas. ***TheWebConf-24***. [arXiv](https://arxiv.org/pdf/2302.08108.pdf).
+* [Learning Thresholds with Latent Values and Censored Feedback](https://openreview.net/pdf?id=qaKRfobbTg). Jiahao Zhang, Tao Lin, Weiqiang Zheng, Zhe Feng, Yifeng Teng and Xiaotie Deng. ***ICLR-24*** (to appear). [arXiv](https://arxiv.org/pdf/2312.04653.pdf).
 * [Follow-ups Also Matter: Improving Contextual Bandits via Post-serving Contexts](https://openreview.net/pdf?id=oaCDiKoJ2w). Chaoqi Wang, Ziyu Ye, Zhe Feng, Ashwinkumar Badanidiyuru and Haifeng Xu. ***NeurIPS-23*** (<span style="color:red">*Spotlight*</span>). [arXiv](https://arxiv.org/pdf/2309.13896.pdf).
 * [Pairwise Ranking Losses of Click-Through Rates Prediction for Welfare Maximization in Ad Auctions](https://proceedings.mlr.press/v202/lyu23b/lyu23b.pdf). Boxiang Lyu, Zhe Feng, Zachary Robertson and Oluwasanmi O Koyejo. ***ICML-23***. [arXiv](https://arxiv.org/pdf/2306.01799.pdf).
 * [Improved Online Learning Algorithms for CTR Prediction in Ad Auctions](https://proceedings.mlr.press/v202/feng23b/feng23b.pdf). (Alphabetical) Zhe Feng, Christopher Liaw and Zixin Zhou. ***ICML-23***. [Conference Version](https://proceedings.mlr.press/v202/feng23b/feng23b.pdf).
@@ -42,6 +44,5 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 
 ### Manuscript papers.
 
-* [Joint Feedback Loop for Spend and Return-On-Spend Constraints](). (Alphabetical) Santiago R. Balseiro, Kshipra Bhawalkar, Zhe Feng, Haihao Lu, Vahab Mirrokni, Balasubramanian Sivan, Di Wang. [arXiv](https://arxiv.org/pdf/2302.08530v1.pdf).
-* [User Response in Ad Auctions: An MDP Formulation of Long-term Revenue Optimization](). (Alphabetical) Yang Cai, Zhe Feng, Christopher Liaw and Aranyak Mehta. [arXiv](https://arxiv.org/pdf/2302.08108.pdf).
+* [Deep Learning for Two-Sided Matching](). Sai S. Ravindranath, Zhe Feng, Shira Li, Jonathan Ma, Scott D. Kominers, David C. Parkes. [arXiv](https://arxiv.org/pdf/2107.03427.pdf).
 * [Robust Clearing Price Mechanisms for Reserve Price Optimization](). Zhe Feng and Sebastien Lahaie. [arXiv](https://arxiv.org/pdf/2107.04638.pdf).
