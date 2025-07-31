@@ -26,7 +26,7 @@ You can find my full publications on my [Google Scholar](https://scholar.google.
 
 ### 2023
 * [Follow-ups Also Matter: Improving Contextual Bandits via Post-serving Contexts](https://openreview.net/pdf?id=oaCDiKoJ2w). Chaoqi Wang, Ziyu Ye, Zhe Feng, Ashwinkumar Badanidiyuru and Haifeng Xu. ***NeurIPS-23*** (<span style="color:red">*Spotlight*</span>). [arXiv](https://arxiv.org/pdf/2309.13896.pdf).
-* [Pairwise Ranking Losses of Click-Through Rates Prediction for Welfare Maximization in Ad Auctions](https://proceedings.mlr.press/v202/lyu23b/lyu23b.pdf). Boxiang Lyu, Zhe Feng, Zachary Robertson and Oluwasanmi O Koyejo. ***ICML-23***. [arXiv](https://arxiv.org/pdf/2306.01799.pdf).
+* [Pairwise Ranking Losses of Click-Through Rates Prediction for Welfare Maximization in Ad Auctions](https://proceedings.mlr.press/v202/lyu23b/lyu23b.pdf). Boxiang Lyu, Zhe Feng, Zachary Robertson and Sanmi Koyejo. ***ICML-23***. [arXiv](https://arxiv.org/pdf/2306.01799.pdf).
 * [Improved Online Learning Algorithms for CTR Prediction in Ad Auctions](https://proceedings.mlr.press/v202/feng23b/feng23b.pdf). (Alphabetical) Zhe Feng, Christopher Liaw and Zixin Zhou. ***ICML-23***. [Conference Version](https://proceedings.mlr.press/v202/feng23b/feng23b.pdf).
 * [Learning to Bid in Contextual First Price Auctions](https://dl.acm.org/doi/abs/10.1145/3543507.3583427). (Alphabetical) Ashwinkumar Badanidiyuru, Zhe Feng and Guru Guruganesh. ***TheWebConf-23***. [arXiv](https://arxiv.org/pdf/2109.03173.pdf).
 * [Online Bidding Algorithms for Return-on-Spend Constrained Advertisers](https://dl.acm.org/doi/abs/10.1145/3543507.3583491). (Alphabetical) Zhe Feng, Swati Padmanabhan, Di Wang. ***TheWebConf-23***. [arXiv](https://arxiv.org/pdf/2208.13713.pdf).
