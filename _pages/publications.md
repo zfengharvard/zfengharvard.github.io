@@ -12,6 +12,7 @@ You can find my full publications on my [Google Scholar](https://scholar.google.
 
 ### 2025+
 
+* [Incentive-Aligned Multi-Source LLM Summaries](https://arxiv.org/pdf/2509.25184). Yanchen Jiang, Zhe Feng and Aranyak Mehta. [arXiv](https://arxiv.org/pdf/2509.25184).
 * [Online Bidding under RoS Constraints without Knowing the Value](https://dl.acm.org/doi/pdf/10.1145/3696410.3714734). (Alphabetical) Sushant Vijayan, Zhe Feng, Swati Padmanabhan, Karthikeyan Shanmugam, Arun Suggala and Di Wang. ***TheWebConf-25***. [arXiv](https://arxiv.org/pdf/2503.03195).
 * [Deviate or Not: Learning Coalition Structures with Multiple-bit Observations in Games](https://ojs.aaai.org/index.php/AAAI/article/view/33553/35708). Yixuan Even Xu, Zhe Feng and Fei Fang. ***AAAI-25***. [arXiv](https://arxiv.org/pdf/2412.10636).
 
