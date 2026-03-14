@@ -10,9 +10,13 @@ You can find my full publications on my [Google Scholar](https://scholar.google.
 
 ## Conference Papers.
 
-### 2025+
+### 2026+
+* [Incentive-Aligned Multi-Source LLM Summaries](https://arxiv.org/pdf/2509.25184). Yanchen Jiang, Zhe Feng and Aranyak Mehta. ***ICLR-26***. [arXiv](https://arxiv.org/pdf/2509.25184).
+* [How to Strategize Human Content Creation in the Era of GenAI?](https://arxiv.org/pdf/2406.05187). Seyed A. Esmaeili, Kevin Lim, Kshipra Bhawalkar, Zhe Feng, Di Wang and Haifeng Xu. ***TheWebConf-26***. [arXiv](https://arxiv.org/pdf/2406.05187).
+* [Position Auctions in AI-Generated Content](https://arxiv.org/pdf/2506.03309). Santiago Balseiro, Kshipra Bhawalkar, Yuan Deng, Zhe Feng, Jieming Mao, Aranyak Mehta, Vahab Mirrokni, Renato Paes Leme, Di Wang and Song Zuo. ***TheWebConf-26***. [arXiv](https://arxiv.org/pdf/2506.03309).
 
-* [Incentive-Aligned Multi-Source LLM Summaries](https://arxiv.org/pdf/2509.25184). Yanchen Jiang, Zhe Feng and Aranyak Mehta. [arXiv](https://arxiv.org/pdf/2509.25184).
+### 2025
+* [A Unified Approach to Submodular Maximization Under Noise](https://arxiv.org/pdf/2510.21128). (Alphabetical) Kshipra Bhawalkar, Yang Cai, Zhe Feng, Christopher Liaw, and Tao Lin. ***NeurIPS-25***. [arXiv](https://arxiv.org/pdf/2510.21128).
 * [Online Bidding under RoS Constraints without Knowing the Value](https://dl.acm.org/doi/pdf/10.1145/3696410.3714734). (Alphabetical) Sushant Vijayan, Zhe Feng, Swati Padmanabhan, Karthikeyan Shanmugam, Arun Suggala and Di Wang. ***TheWebConf-25***. [arXiv](https://arxiv.org/pdf/2503.03195).
 * [Deviate or Not: Learning Coalition Structures with Multiple-bit Observations in Games](https://ojs.aaai.org/index.php/AAAI/article/view/33553/35708). Yixuan Even Xu, Zhe Feng and Fei Fang. ***AAAI-25***. [arXiv](https://arxiv.org/pdf/2412.10636).
 
